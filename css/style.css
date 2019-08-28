@@ -1,16 +1,18 @@
-﻿a:link{color:black;text-decoration:none;}
-a:visited{color:black;text-decoration:none;}
-a:hover{color:#ddd; background-color:transparent;text-decoration:none;}
+﻿a:link{color:#3f48cc;text-decoration:none;}
+a:visited{color:#3f48cc;text-decoration:none;}
+a:hover{color:#5e628f; background-color:transparent;text-decoration:none;}
 a:active{color:#999;text-decoration:none;}
 a{font-family: 'Raleway', sans-serif;}
 a.small{font-size:100%;}
 
-a.x:link{color:#3f48cc;text-decoration:none;}
-a.x:visited{color:#3f48cc;text-decoration:none;}
-a.x:hover{color:#5e628f; background-color:transparent;text-decoration:none;}
+a.x:link{color:black;text-decoration:none;}
+a.x:visited{color:black;text-decoration:none;}
+a.x:hover{color:#ddd; background-color:transparent;text-decoration:none;}
 a.x:active{color:#999;text-decoration:none;}
 a.x{font-family: 'Raleway', sans-serif;}
 a.small{font-size:100%;}
+
+
 body {
 	
 	font-family: 'Raleway', sans-serif;
