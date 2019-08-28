@@ -26,13 +26,13 @@ nav {
 	
 	
 section {
-	width:100%;font-size:18px;text-align:center;border-style:outset;border-width:2px;margin:2px; border-color: #656565; box-shadow: 2px 2px 2px 2px;
+	width:100%;font-size:18px;text-align:center;border-style:outset;border-width:2px;margin:2px; border-color: #3f48cc; box-shadow: 2px 2px 2px 2px; color: #4d56db;
 	}
 	 
 article {
 	margin:50px;
 	padding: 20px;
-	border-style:outset;border-width:5px; border-color: #656565; box-shadow: 2px 2px;
+	border-style:outset;border-width:5px; border-color: #1ba4e8; box-shadow: 1px 2px; color: #1bb8e8;
 	font-family: 'Raleway', sans-serif;
 	}
 	
